@@ -1,0 +1,3 @@
+# springboot stater auto YuApiClient
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.foenic.file.config.ThreadPoolConfig
