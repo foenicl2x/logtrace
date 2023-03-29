@@ -12,9 +12,9 @@
 引入：
 ```xml
   <dependency>
-      <groupId>com.foenic.file</groupId>
-      <artifactId>logtrace</artifactId>
-      <version>1.0</version>
+    <groupId>io.github.foenic.logtrace</groupId>
+    <artifactId>logtrace</artifactId>
+    <version>1.0</version>
   </dependency>
 ```
 
