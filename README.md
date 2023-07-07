@@ -12,7 +12,7 @@
 引入：
 ```xml
   <dependency>
-    <groupId>io.github.weihubeats</groupId>
+    <groupId>io.github.foenicl2x</groupId>
     <artifactId>logtrace</artifactId>
     <version>1.0</version>
   </dependency>

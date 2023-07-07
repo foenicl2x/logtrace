@@ -11,7 +11,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
-    <groupId>io.github.foenic.logtrace</groupId>
+    <groupId>io.github.foenicl2x</groupId>
     <artifactId>logtrace</artifactId>
     <version>1.0</version>
 
